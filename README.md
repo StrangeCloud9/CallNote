@@ -6,8 +6,8 @@
 
 ### Demo
 
-![image](http://github.com/StrangeCloud9/CallNote/raw/master/images/call1.png)
-![image](http://github.com/StrangeCloud9/CallNote/raw/master/images/call2.png)
+[![call1.png](http://www.z4a.net/images/2017/12/22/call1.png)](http://www.z4a.net/image/lPx4J)
+[![call2.png](http://www.z4a.net/images/2017/12/22/call2.png)](http://www.z4a.net/image/lPwOr)
 
 
 
